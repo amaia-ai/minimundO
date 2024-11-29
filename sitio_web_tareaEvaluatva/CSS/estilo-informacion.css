@@ -1,0 +1,70 @@
+.pestaña{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f1f1f1;
+    border: 1px solid #fbf8fa;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-right: 100px;
+    background-color: #f8f4f4;
+    background-color: #ccc;
+    text-align: right;
+    font-size:larger;
+    color:rosybrown;
+    font-weight:bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    }
+
+    .portadas{
+        height: auto;
+        margin: 10px; 
+        padding-top:60px;
+        width: 300px; ;
+        
+    }
+
+    .texto{
+        font-size: 20px;;
+        color:beige;
+        font-style:normal;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        display: table-header-group;
+        
+    }
+    .li{
+        list-style-type: none; 
+        padding: 0;
+        font-size: 18px;
+        color:rgb(2, 98, 56)
+    }
+    .argumento{
+        font: size 100px; ;
+        color:pink
+
+    }
+   .img{
+        width: 300px;
+        display: block;
+        padding: 30px;
+        
+}
+.container{
+    display:flex inline;
+    padding: 10px 10px;
+    background-color:#dbcbd6;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-right:10px;
+    text-align:center;
+    font-size:larger;
+    color:rosybrown;
+    font-weight:bolder /*grosor letra*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none; /* para quitar subrayado*/
+    justify-content:flex-end;
+
+}
+
+
+}

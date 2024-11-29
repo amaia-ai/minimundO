@@ -1,0 +1,52 @@
+
+.container{
+    display:flex inline;
+    padding: 10px 10px;
+    background-color:#dbcbd6;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-right:10px;
+    text-align:center;
+    font-size:larger;
+    color:rosybrown;
+    font-weight:bolder /*grosor letra*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none; /* para quitar subrayado*/
+    justify-content:flex-end;
+    
+}
+.h1{
+    color:#757b91e0;
+    font-style: oblique;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.section{
+  
+  position:absolute;
+ 
+  
+
+
+}
+.parrafo{
+   margin:opx;
+   padding: 2px;
+   font-size: 20px;
+   color: beige;
+ 
+
+    
+
+}
+.imagen-float{
+   height: 500px;
+   padding: 40px;
+}
+
+.enlace{
+    font-size: 20px;
+    color:lightgray;
+
+}

@@ -1,0 +1,77 @@
+.container{
+    display:inline-flex;
+    padding: 10px 10px;
+    background-color:#dbcbd6;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-right:20px;
+    text-align:left;
+    font-size:larger;
+    color:rosybrown; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none; /* para quitar subrayado*/
+    justify-content:center;
+            
+}
+
+
+
+
+.parrafo{
+  
+    display: flex;
+    font-size: 20px;
+    color: bisque;
+}
+
+.h1{
+    margin: 40px;
+    color:rgb(243, 236, 226);
+    
+
+}
+.bloque{
+    display:block;
+    padding:20px;
+    color:pink;
+    text-decoration: none;
+    font: size 40px;
+    flex-wrap: wrap;
+   
+}
+
+.imagen-float{
+ 
+    height: 148px;
+    margin: 0;
+}
+
+.fin-float{
+    clear:both;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    color: antiquewhite;
+    margin: auto;
+}
+
+.section{
+    display: flex;
+    flex-wrap:wrap;
+    align-items: baseline;
+    flex-direction: row;
+    
+}
+
+.figura{
+    display: inline-block;
+    text-align: center;
+    margin:20px;
+    padding: 30px;
+}
+.figcaption{
+    color: antiquewhite;
+    font-size: 20px;
+    padding: 10px;
+
+}
